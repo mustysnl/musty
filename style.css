@@ -110,21 +110,29 @@ ol {
 .fig-one {
   margin-left: 250px;
   display: inline-block;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
 }
 
 .fig-two {
   margin-left: 266px;
   display: inline-block;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
 }
 
 .fig-three {
   margin-left: 257px;
   display: inline-block;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
 }
 
 .fig-four {
   margin-left: 282px;
   display: inline-block;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
 }
 
 /* nutrient figures */
