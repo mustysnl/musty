@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  /* font-family: "Young-Serif", serif; */
+  font-family: "Outfit", sans-serif;
+}
+
+hr {
+  margin: 30px 0;
+}
+
+.hr-nutrients {
+  margin: 15px 0;
+}
+
+.full-article {
+  width: 700px;
+  margin: 50px auto;
+  background-color: #fff7fc;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+body {
+  /* padding: 20px; */
+  background-color: hsl(30, 54%, 90%);
+}
+
+.omelette-img {
+  padding: 10px;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 20px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(30, 10%, 34%);
+}
+
+.main-header {
+  margin: 15px 0;
+  font-size: 36px;
+  font-family: "Young-Serif", serif;
+  color: hsl(24, 5%, 18%);
+}
+
+.preparation-time {
+  margin: 15px 0;
+  margin-left: 30px;
+  color: hsl(332, 51%, 32%);
+}
+
+.first-setli {
+  margin-left: 50px;
+}
+
+.Recipe {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: hsl(14, 45%, 36%);
+  font-family: "Young-Serif", serif;
+}
+
+.Recipe-li {
+  margin-left: 20px;
+  color: hsl(14, 45%, 36%);
+}
+
+.pjm {
+  color: hsl(30, 10%, 34%);
+  font-weight: 300;
+}
+
+.rules {
+  margin: 15px 0;
+  color: hsl(14, 45%, 36%);
+  font-family: "Young-Serif", serif;
+}
+
+li {
+  margin-bottom: 10px;
+  color: hsl(14, 45%, 36%);
+  font-family: "Outfit", sans-serif;
+}
+
+li:last-child {
+  margin-bottom: 20px;
+}
+
+ul,
+ol {
+  font-weight: bold;
+}
+
+.nutrition {
+  margin: 15px 0;
+  color: hsl(14, 45%, 36%);
+}
+
+.instructions {
+  padding-left: 20px;
+}
+
+/* !!! Nutrients figures */
+
+.fig-one {
+  margin-left: 250px;
+  display: inline-block;
+}
+
+.fig-two {
+  margin-left: 266px;
+  display: inline-block;
+}
+
+.fig-three {
+  margin-left: 257px;
+  display: inline-block;
+}
+
+.fig-four {
+  margin-left: 282px;
+  display: inline-block;
+}
+
+/* nutrient figures */
+
+.last-p {
+  margin-bottom: 15px;
+}
+
+.nutrients-list {
+  list-style: none;
+}
+
+.nutrition-p {
+  display: inline-block;
+  color: hsl(30, 10%, 34%);
+  font-weight: normal;
+  margin-left: 30px;
+}
+
+a:link {
+  text-decoration: none;
+  color: hsl(24, 5%, 18%);
+}
+
+.attribution {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+}
